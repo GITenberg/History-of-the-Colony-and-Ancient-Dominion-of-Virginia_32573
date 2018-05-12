@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35922'
     url: http://www.gutenberg.org/2009/agents/35922
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32573#History-of-the-Colony-and-Ancient-Dominion-of-Virginia
 gutenberg_issued: '2010-05-28'
 gutenberg_type: Text
 identifiers:
